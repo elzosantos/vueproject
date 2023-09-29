@@ -7,6 +7,7 @@
   <script>
 export default {
   name: "LifeCycle",
+
   data() {
     return {
       nome: "Ainda não sei",
